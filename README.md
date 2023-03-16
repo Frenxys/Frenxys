@@ -8,3 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=Frenxys&icon=3&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
+###
