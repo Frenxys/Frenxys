@@ -11,6 +11,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Frenxys/Frenxys/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Frenxys/Frenxys/blob/output/snake.svg" alt="Snake animation" />
 
 ###
