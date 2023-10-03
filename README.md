@@ -14,6 +14,4 @@
 
 <br>
 
-<img src="https://github.com/Frenxys/Frenxys/blob/output/snake.svg" alt="Snake animation" />
-
 ###
