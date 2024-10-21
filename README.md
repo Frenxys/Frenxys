@@ -1,42 +1,80 @@
 # 💫 About Me:
 +[----->+++<]>+.---.+++++++..+++.[->+++++<]>+.------------.-[--->++<]>-.[--->+<]>++++.---[->+++<]>+.[->+++++<]>-.++[->++<]>+.-[--->+<]>++.---------.----.-[->+++<]>.---[->++<]>.++[--->++<]>+.<br>
 # 💻 Tech Stack:
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+<p>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/angular.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/angular.svg" alt="angular" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/css.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/css.svg" alt="css" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/html.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/html.svg" alt="html" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/java.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/java.svg" alt="java" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/js.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/js.svg" alt="javascript" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/react.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/react.svg" alt="react" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/svelte.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/svelte.svg" alt="svelte" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/vite.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/vite.svg" alt="vite" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/vuejs.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/vuejs.svg" alt="vuejs" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/kt.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/kt.svg" alt="kotlin" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/ts.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/ts.svg" alt="typescript" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/git.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/git.svg" alt="git" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/python.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/python.svg" alt="python" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/figma.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/figma.svg" alt="figma" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/php.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/php.svg" alt="php" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/c.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/c.svg" alt="c" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/cpp.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/cpp.svg" alt="cpp" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/csharp.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/csharp.svg" alt="csharp" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/nodejs.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/nodejs.svg" alt="nodejs" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/jquery.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/jquery.svg" alt="jquery" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/cloudflare.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/cloudflare.svg" alt="cloudflare" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/mysql.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/mysql.svg" alt="mysql" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/docker.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/docker.svg" alt="docker" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/firebase.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/firebase.svg" alt="firebase" width="42" height="42" />
+  </a>
+</p>
+
 
 <br>
