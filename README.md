@@ -74,6 +74,9 @@
   <a target="_blank" href="https://portfolio-enea.web.app/stack/firebase.svg" style="display: inline-block;">
     <img src="https://portfolio-enea.web.app/stack/firebase.svg" alt="firebase" width="42" height="42" />
   </a>
+  <a target="_blank" href="https://portfolio-enea.web.app/stack/bun.svg" style="display: inline-block;">
+    <img src="https://portfolio-enea.web.app/stack/bun.svg" alt="bun" width="42" height="42" />
+  </a>
 </p>
 
 
